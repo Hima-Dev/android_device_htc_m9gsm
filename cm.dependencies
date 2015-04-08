@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_device_htc_m9-common",
+    "target_path": "device/htc/m9-common"
+  }
+  {
+    "repository": "android_kernel_htc_msm8994",
+    "target_path": "device/htc/msm8994"
+  }
+]
