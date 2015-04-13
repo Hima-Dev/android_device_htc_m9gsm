@@ -17,7 +17,7 @@
 # inherit from common m9
 -include device/htc/m9-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := m9, m9gsm
+TARGET_OTA_ASSERT_DEVICE := m9,m9gsm
 
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_m9_defconfig
